@@ -1,0 +1,1 @@
+xattr -cr ~/Downloads/rawing && chmod +x ~/Downloads/rawing/*.command ~/Downloads/rawing/*.sh && open ~/Downloads/rawing/setup.command
